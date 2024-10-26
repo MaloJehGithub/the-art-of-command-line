@@ -51,8 +51,10 @@ They have kindly agreed to review and help update future contributions for the t
 * [Valeria de Paiva (vcvpaiva)](https://github.com/vcvpaiva) — [2+](https://github.com/jlevy/the-art-of-command-line/commits?author=vcvpaiva)/[0+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Avcvpaiva) — _translator (pt)_
 * [Xu Chunyang (xuchunyang)](https://github.com/xuchunyang) — [13+](https://github.com/jlevy/the-art-of-command-line/commits?author=xuchunyang)/[7+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Axuchunyang) — _translator (zh)_
 
+
 *Contributors*
 
+* [MaloJehGithub](https://github.com/MaloJehGithub)
 * [0xCD](https://github.com/0xCD) — [4+](https://github.com/jlevy/the-art-of-command-line/commits?author=0xCD)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3A0xCD)
 * [0xmohit](https://github.com/0xmohit) — [2+](https://github.com/jlevy/the-art-of-command-line/commits?author=0xmohit)/[3+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3A0xmohit)
 * [Jiang Guoxi (374632897)](https://github.com/374632897) — [3+](https://github.com/jlevy/the-art-of-command-line/commits?author=374632897)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3A374632897)
