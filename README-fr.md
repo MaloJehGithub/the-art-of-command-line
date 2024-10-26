@@ -35,7 +35,7 @@ Une partie de celui-ci a été [initialement](http://www.quora.com/What-are-some
 
 ## Méta
 
-Contexte :
+Le Contexte :
 
 - Ce guide est destiné aux débutants et aux utilisateurs chevronnés.
 Les objectifs sont l'*envergure* (tout est important), la *spécificité* (donner des exemples concrets des cas les plus courants) et la *concision* (éviter tout ce qui n'est pas essentiel et les digressions disponibles facilement ailleurs).
